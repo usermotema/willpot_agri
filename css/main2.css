@@ -81,7 +81,7 @@ img{
 #submit_button{
     border-radius: 2px;
     position: absolute;
-    bottom: 5px;
+    bottom: 8px;
     right: 0;
     padding: 9px;
     border: 0;
@@ -222,11 +222,15 @@ img{
     #menu{
         font-size: 20px;
         top: 17px;
-        left: 1px;
+        left: 12px;
     }
 
     .navbar_div{
         width: 100%;
+    }
+
+    #submit_button{
+        right: -3px;
     }
 
    
